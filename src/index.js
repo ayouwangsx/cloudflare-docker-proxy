@@ -17,7 +17,7 @@ const routes = {
   "cloudsmith.vpnproxy.cn": "https://docker.cloudsmith.io",
 
   // staging
-  "docker-staging.vpnproxy.cn": dockerHub,
+  //"docker-staging.vpnproxy.cn": dockerHub,
 };
 
 function routeByHosts(host) {
